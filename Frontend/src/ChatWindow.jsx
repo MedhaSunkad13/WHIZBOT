@@ -78,7 +78,7 @@ function ChatWindow() {
             <i class="fa-solid fa-arrow-up-from-bracket"></i>Upgrade Plan
           </div>
           <div className="dropDownItems">
-            <i class="fa-solid fa-gear"></i>Settings
+            <i className="fa-solid fa-gear"></i>Settings
           </div>
         </div>
       )}
